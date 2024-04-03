@@ -6,6 +6,7 @@ use App\Models\Bread;
 use App\Models\Meat;
 use App\Models\Optional;
 use App\Models\Sauce;
+use Illuminate\Support\Facades\Log;
 
 class IngredientsController extends Controller
 {
